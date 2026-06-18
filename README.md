@@ -44,4 +44,4 @@ Created visual dashboards to understand trends and business performance.
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/swapnali-s-b86451bb/
-- Email: swapnashine18@gmail.com
+- Email: swapnashinde18@gmail.com
