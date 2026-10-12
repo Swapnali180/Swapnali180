@@ -16,11 +16,11 @@ I am transitioning into Data Analytics, combining my business knowledge with tec
 
  Category             |                   Skills
 |---|---|
- Querying                   SQL, PostgreSQL, Joins, CTEs, Window Functions 
- Visualization              Power BI, Tableau, Excel 
- Python Analytics           Pandas, NumPy, Matplotlib, Seaborn 
- BI Development             Data Modeling, DAX, Power Query, KPI Dashboards 
- Analysis                   Data Cleaning, EDA, Data Validation, Trend Analysis 
+|Querying                   |SQL, PostgreSQL, Joins, CTEs, Window Functions 
+|Visualization              |Power BI, Tableau, Excel 
+|Python Analytics           |Pandas, NumPy, Matplotlib, Seaborn 
+|BI Development             |Data Modeling, DAX, Power Query, KPI Dashboards 
+|Analysis                   |Data Cleaning, EDA, Data Validation, Trend Analysis 
 
 ## 🚀 Featured Projects
 
