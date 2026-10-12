@@ -45,7 +45,7 @@ I am transitioning into Data Analytics, combining my business knowledge with tec
 **Objective:** Present business KPIs and performance trends through an interactive dashboard.
 
 ### 5. ShopNest Analysis
-**Tools:** Add the actual tools used in the project.
+**Tools:** PostgreSQL,Excel
 
 **Objective:** Document the business questions explored in the ShopNest project and analyze the available sales and delivery data.
 
