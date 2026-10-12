@@ -1,47 +1,61 @@
 # Hi, I'm Swapnali Shinde 👋
 
-Data Analyst Enthusiast with hands-on experience in SQL, Python, Excel, Power BI, and Tableau.  
-I enjoy analyzing business data, building dashboards, writing SQL queries, and turning raw data into clear insights.
+### Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
-## 🔍 About Me
+I bring 5+ years of experience in Business Development and Key Account Management, with a strong understanding of business performance, customer requirements, sales metrics, CRM reporting and stakeholder communication.
 
-- Transitioning into Data Analytics from a Sales and Business Development background
-- Experienced in client handling, CRM reporting, business metrics, and stakeholder communication
-- Completed Data Analyst training covering Python, SQL, Advanced Excel, Power BI, Tableau, and Statistics
-- Interested in Data Analyst, Business Analyst, MIS Analyst, and Reporting Analyst roles
+I am transitioning into Data Analytics, combining my business knowledge with technical skills to analyze data, track KPIs, identify trends and support data-driven decision-making.
 
-## 🛠️ Skills
+- 🔎 **Focus:** Data Analysis, Business Intelligence and Reporting Analytics
+- 🛠️ **Tools:** SQL, PostgreSQL, Python, Power BI and Excel
+- 📊 **Interests:** Exploratory Data Analysis, KPI Reporting, Dashboard Development and Business Insights
+- 🌱 **Currently building:** Hands-on analytics projects and a portfolio of reproducible analyses
+- 💼 **Target roles:** Data Analyst, Business Analyst and Power BI Analyst
 
-**Languages & Databases:**  
-SQL, PostgreSQL, Python
+## 🧰 Technical Skills
 
-**Data Analysis Tools:**  
-Excel, Power BI, Tableau, Jupyter Notebook
+ Category             |                   Skills
+|---|---|
+ Querying                   SQL, PostgreSQL, Joins, CTEs, Window Functions 
+ Visualization              Power BI, Tableau, Excel 
+ Python Analytics           Pandas, NumPy, Matplotlib, Seaborn 
+ BI Development             Data Modeling, DAX, Power Query, KPI Dashboards 
+ Analysis                   Data Cleaning, EDA, Data Validation, Trend Analysis 
 
-**Python Libraries:**  
-Pandas, NumPy, Matplotlib
+## 🚀 Featured Projects
 
-**Business Skills:**  
-Data Cleaning, Dashboarding, Reporting, KPI Tracking, Sales Analysis, Customer Analysis
+### 1. Sales Performance Analysis
+**Tools:** SQL, Excel, Power BI
 
-## 📊 Featured Projects
+**Objective:** Analyze sales trends, product performance and business KPIs.
 
-### 1. SQL Analytics Projects
-Solved business problems using PostgreSQL including revenue analysis, ranking, customer segmentation, and window functions.
+### 2. SQL Business Analysis
+**Tools:** PostgreSQL
 
-### 2. Python Data Analysis Capstone
-Performed data cleaning, transformation, and analysis using Python, Pandas, and Jupyter Notebook.
+**Objective:** Solve business questions using joins, aggregations, CTEs and window functions.
 
-### 3. Power BI ShopNest Dashboard
-Created an interactive Power BI dashboard to analyze sales, orders, payments, product categories, and delivery performance.
+### 3. Python Exploratory Data Analysis
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
-### 4. Excel Dashboard Projects
-Built Excel reports using pivot tables, charts, formulas, and business KPIs.
+**Objective:** Clean and explore a dataset, investigate patterns and communicate findings through visualizations.
 
-### 5. Tableau Dashboard Projects
-Created visual dashboards to understand trends and business performance.
+### 4. Business Intelligence Dashboard
+**Tools:** Power BI, DAX, Power Query
 
-## 📫 Connect With Me
+**Objective:** Present business KPIs and performance trends through an interactive dashboard.
 
-- LinkedIn: https://www.linkedin.com/in/swapnali-s-b86451bb/
-- Email: swapnashinde18@gmail.com
+### 5. ShopNest Analysis
+**Tools:** Add the actual tools used in the project.
+
+**Objective:** Document the business questions explored in the ShopNest project and analyze the available sales and delivery data.
+
+## 💼 My Approach
+
+I combine business understanding with analytical thinking to turn raw data into structured insights. My focus is on transparent analysis, accurate reporting and communicating findings in a way that supports business decisions.
+
+## 🤝 Let's Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/swapnali-s-b86451bb/
+- **GitHub:** https://github.com/Swapnali180
+- **Email:** swapnashinde18@gmail.com
+
